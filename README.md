@@ -15,5 +15,6 @@
           - prefix_Sum_array[0]=arr[0];
           - for(int i = 1 ; i < n ; i++) { prefix_Sum_array[i] = prefix_Sum_array[i-1] + arr[i] } 
              n is the size of orginal arr.
-          
-          
+         
+ # Parallel_PrefixSum:
+ 
