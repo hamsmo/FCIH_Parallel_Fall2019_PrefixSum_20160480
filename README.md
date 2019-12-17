@@ -18,3 +18,4 @@
          
  # Parallel_PrefixSum:
  
+We have implemented the parallel algorithm in coarse-grained concurrent version Firstly, we’ve implemented it in class ParallelPrefixSum
